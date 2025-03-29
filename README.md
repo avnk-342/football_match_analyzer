@@ -29,7 +29,7 @@ To train the YOLOv8 model, use the notebook in training/yolov8.ipynb.
 Use the Jupyter notebooks in development_and_analysis/ for further analysis.
 
 ## File Descriptions
-main.py: Entry point for the pipeline.
+main.py: Entry point for the pipeline.\n
 prediction.py: Handles predictions using the trained model.
 team_assignment/team_assigner.py: Implements team assignment logic.
 tracking/tracker.py: Contains object tracking logic.
